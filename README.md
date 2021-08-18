@@ -1,5 +1,3 @@
 - I'm @DevAlek, i do cool things.
-<!---
-DevAlek/DevAlek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All my projects are private because i'm redoing them. Some were over 1 year old.
+So please be pacient :D
