@@ -50,5 +50,5 @@ I also did some other couple of things but it isn't public because I'm remaking 
 
 # How can you reach me?
 
-I'm always on at Discord (`theSixth#5275`) and at twitter (`@the06th`).
+I'm always online at Discord (`theSixth#5275`) and at twitter (`@the06th`).
 You can also send me a e-mail at `theSixthLeader@protonmail.com`!
